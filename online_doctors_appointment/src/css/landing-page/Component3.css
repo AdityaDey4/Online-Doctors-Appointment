@@ -1,0 +1,28 @@
+.about {
+    margin: 65px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.doctor {
+    height: 20vw;
+    width: 50vw
+}
+
+.info {
+    width: 25vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.infoTitle {
+    font-size: 36px;
+    font-family: 'Unbounded', cursive;
+    margin-bottom: 30px;
+}
+
+.infoSummary {
+    font-size: 16px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-bottom: 30px;
+}

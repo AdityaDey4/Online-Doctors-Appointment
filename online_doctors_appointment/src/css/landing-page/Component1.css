@@ -1,0 +1,40 @@
+.start {
+    margin: 65px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.doctor {
+    height: 20vw;
+    width: 50vw
+}
+
+.info {
+    width: 25vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.infoTitle {
+    font-size: 36px;
+    font-family: 'Unbounded', cursive;
+    margin-bottom: 30px;
+}
+
+.infoSummary {
+    font-size: 16px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-bottom: 30px;
+}
+
+.button {
+    width: fit-content;
+    background-color: rgba(4, 189, 189, 0.815);
+    color: rgb(252, 250, 250);
+    font-family: 'Merriweather', serif;
+    padding: 7px 10px;
+    border: .2px rgb(39, 36, 36);
+    cursor: pointer;
+    margin-bottom: 40px;
+    border-radius: 10px;
+}
